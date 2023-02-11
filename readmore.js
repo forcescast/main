@@ -1,5 +1,5 @@
 /*<![CDATA[*/
-// (postBody) sesuaikan dengan kode di template kalian, biasanya dapat di lihat pebungkus kode ini <data:post.body/> contoh <div class='postBody'><data:post.body/></div>
+// (postBody)
 !function() {
     let c = document.querySelector("#postTextRelated");
     if (c) {
